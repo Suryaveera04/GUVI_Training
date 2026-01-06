@@ -1,0 +1,31 @@
+# Compiled Java class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Microsoft Office temporary files
+~$*
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build directories
+build/
+target/
+out/
