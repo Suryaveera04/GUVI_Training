@@ -9,7 +9,6 @@
 # IDE files
 *.iml
 .idea/
-.vscode/
 
 # OS generated files
 .DS_Store
@@ -29,3 +28,5 @@ Thumbs.db
 build/
 target/
 out/
+config.bat
+node_modules
